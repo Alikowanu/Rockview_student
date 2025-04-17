@@ -1,7 +1,7 @@
 # Rockview Student Repository
 
-**Student Name:** [Chonde Smart]  
-**Student ID:** [20250420670]  
+**Student Name:** Chonde Smart  
+**Student ID:** 20250420670  
 **Course:** Introduction to Linux and Version Control  
 **Institution:** Rockview University
 
